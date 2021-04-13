@@ -98,8 +98,8 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Republic of Korea"
-  Email            : "dbscjf324@gmail.com"
-  Github           : "Github"
+  email            : 
+  github           : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
